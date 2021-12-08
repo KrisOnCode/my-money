@@ -1,6 +1,6 @@
 # My Money
 
-My Money is an Expense Tracker application built with React Custom Hooks, Firebase and Material UI.
+My Money is an Expense Tracker application built with React Custom Hooks, Firebase and CSS.
 
 ## Features
 
