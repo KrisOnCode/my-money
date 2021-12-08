@@ -25,7 +25,7 @@ My Money is an Expense Tracker application built with React Custom Hooks, Fireba
 
 ![App Dashboard](https://krisoncode.s3.amazonaws.com/project-assets/dashboard.png)
 
-![App Screenshot]()
+
 
 ## Demo
 
